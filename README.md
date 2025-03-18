@@ -65,7 +65,7 @@ A aplicação também disponibiliza uma interface para consulta dessas informaç
   ]
 }
 ```
-#### **2. Distribuição de cartas para um jogador
+#### **2. Distribuição de cartas para um jogador**
 **`PUT /jogadores/{id}/pokemons`**
 
 **Resposta:**
