@@ -73,8 +73,30 @@ A aplicação também disponibiliza uma interface para consulta dessas informaç
 {
   "id": 1,
   "nome": "Ash Ketchum",
-
+  "pokemons": [
+    {
+      "id": 25,
+      "nome": "Pikachu"
+    },
+    {
+      "id": 6,
+      "nome": "Charizard"
+    },
+    {
+      "id": 150,
+      "nome": "Mewtwo"
+    },
+    {
+      "id": 131,
+      "nome": "Lapras"
+    },
+    {
+      "id": 94,
+      "nome": "Gengar"
+    }
+  ]
 }
+
 ```
 ---
 
